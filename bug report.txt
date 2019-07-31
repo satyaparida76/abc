@@ -1,0 +1,1 @@
+Bug_ID	Description	Device	Actual_Screenshots	Expected_Screenshots	Url	Bugs_Type	Open	Reported by	Priority	Assigned to	Comment														
